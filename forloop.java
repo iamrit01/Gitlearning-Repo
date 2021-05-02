@@ -8,5 +8,7 @@ public class forloop{
       System.out.println("Hii Java");}
 
      }
+     System.out.println("Done With this!");
+     System.out.println("wait what about while loops");
 
 }
